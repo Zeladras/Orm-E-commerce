@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS ecomerce_db;
+
+CREATE DATABASE ecomerce_db;
